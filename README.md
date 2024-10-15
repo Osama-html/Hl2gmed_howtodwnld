@@ -10,7 +10,7 @@ Third go to the <strong>#updates</strong> channel and there ya go Garry's mod on
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1_34rHnU_mIJ9xBDDjzNPx4sovijPGOiLlQ&usqp=CAU"
 
 <h1>want more? here is csmos</h1>
-<p>you can download it by searching in youtube: <strong>csmos</strong> there are versions that are the best
+<p>you can download it by searching in youtube<strong>csmos</strong> there are versions that are the best
 
 <h1>want more? just download from the playstore.
 
