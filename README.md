@@ -9,10 +9,9 @@ It shows you how to download hl2gmed it's simple and easy
 Third go to the <strong>#updates</strong> channel and there ya go Garry's mod on android
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1_34rHnU_mIJ9xBDDjzNPx4sovijPGOiLlQ&usqp=CAU"
 
-<h1>want more? here is csmos</h1>
+<h1>want more here is csmos</h1>
 <p>you can download it by searching in youtube<strong>csmos</strong> there are versions that are the best
 
-<h1>want more? just download from the playstore.
+<h1>want more just download from the playstore.
 
-<h3>that's all I know</h3>
-<p>there will be edits</p>
+<p>that's all I know</p><br>there will be edits
