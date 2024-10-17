@@ -16,4 +16,18 @@ Third go to the <strong>#updates</strong> channel and there ya go Garry's mod on
 
 <p>that's all I know</p><br>
 
-<h1<here's a game. <strong>CSsource</strong> </h1>
+<h1>here's a game. <strong>CSsource</strong> </h1>
+
+you know cs source I don't have time to do a description of it.
+
+download it <a href="https://discord.gg/VRqSvRTZ">here</a>
+
+
+
+
+
+
+
+
+
+<h1>here now edits</h1>
