@@ -30,3 +30,5 @@ download it <a href="https://discord.gg/VRqSvRTZ">here</a>
 
 
 <h1>here now edits</h1>
+
+updates: removed unnecessary codes
