@@ -1,4 +1,4 @@
-# Hl2gmed_howtodwnld
+0# Hl2gmed_howtodwnld
 It shows you how to download hl2gmed it's simple and easy
 <h1>What is Hl2gmed?</h1>
 <p>hl2gmed is a <em>game made</em> with <strong>lua</strong> script its the<br> most famous game for how it looks like gmod<br> you can install addons, playermodels, and more</p>
@@ -31,4 +31,4 @@ download it <a href="https://discord.gg/VRqSvRTZ">here</a>
 
 <h1>here now edits</h1>
 
-updates: removed unnecessary codes
+updates: removed unnecessary codes and forgot to tell you need cs source data for csmos. but we did it we add it
